@@ -1,0 +1,33 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_50s20
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.647059 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Stackof20s/M_50s20.jpg
+
+newmtl cash_money_pile_stack_dollars_benjamins
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.729412
+Ks 0.330000 0.330000 0.330000
+map_Kd Stackof20s/cash_money_pile_stack_dollars_benjamins.jpg
+
+newmtl cash_money_pile_stack_dollars_benjamins1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.729412
+Ks 0.330000 0.330000 0.330000
+map_Kd Stackof20s/cash_money_pile_stack_dollars_benjamins1_.jpg
+
+newmtl cash_money_pile_stack_dollars_benjamins2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.729412
+Ks 0.330000 0.330000 0.330000
+map_Kd Stackof20s/cash_money_pile_stack_dollars_benjamins2_.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
